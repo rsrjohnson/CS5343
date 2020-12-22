@@ -1,0 +1,9 @@
+﻿  main.cpp
+F:\!!!Maestria\Summer 2020\CS 5343\Practice\InclassPractice\Practice\InClass\Lecture1Recursion.h(120,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\!!!Maestria\Summer 2020\CS 5343\Practice\InclassPractice\Practice\InClass\Lecture13SPT_DijkstraBellmanFord.h(246,20): warning C4018: '<': signed/unsigned mismatch
+F:\!!!Maestria\Summer 2020\CS 5343\Practice\InclassPractice\Practice\InClass\Lecture14MST_KruskalPrimTopologicalOrder.h(38,20): warning C4018: '<': signed/unsigned mismatch
+F:\!!!Maestria\Summer 2020\CS 5343\Practice\InclassPractice\Practice\InClass\Lecture14MST_KruskalPrimTopologicalOrder.h(63,19): warning C4018: '<': signed/unsigned mismatch
+F:\!!!Maestria\Summer 2020\CS 5343\Practice\InclassPractice\Practice\InClass\main.cpp(165,20): warning C4018: '<': signed/unsigned mismatch
+F:\!!!Maestria\Summer 2020\CS 5343\Practice\InclassPractice\Practice\InClass\main.cpp(214,20): warning C4018: '<': signed/unsigned mismatch
+F:\!!!Maestria\Summer 2020\CS 5343\Practice\InclassPractice\Practice\InClass\main.cpp(247,19): warning C4018: '<': signed/unsigned mismatch
+  InClass.vcxproj -> F:\!!!Maestria\Summer 2020\CS 5343\Practice\InclassPractice\Practice\InClass\Debug\InClass.exe
