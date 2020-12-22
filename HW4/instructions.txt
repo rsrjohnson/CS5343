@@ -1,0 +1,12 @@
+assignment-4
+Make an undirected, but disconnected graph of at least 15 vertices and 25 edges.
+
+you may add function calls in your main to add edges between vertices - one function call per edge.  You may choose any graph representation of your choice from the 3 ways we discussed in the class.
+
+Write a program to do DFS traversal of the graph.
+
+Also write a program to do BFS traversal of the same graph.
+
+Draw your graph on a paper and upload it with you code.
+
+run the each of the two programs and capture screen shots and submit them.  Check that the program does indeed do the correct traversal (based on your hand drawn graph)

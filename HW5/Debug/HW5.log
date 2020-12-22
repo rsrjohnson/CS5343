@@ -1,0 +1,6 @@
+﻿  assignment5.cpp
+F:\!!!Maestria\Summer 2020\CS 5343\HW\HW5\assignment5.cpp(70,20): warning C4018: '<': signed/unsigned mismatch
+F:\!!!Maestria\Summer 2020\CS 5343\HW\HW5\assignment5.cpp(74,20): warning C4018: '<': signed/unsigned mismatch
+F:\!!!Maestria\Summer 2020\CS 5343\HW\HW5\assignment5.cpp(202,19): warning C4018: '<': signed/unsigned mismatch
+F:\!!!Maestria\Summer 2020\CS 5343\HW\HW5\assignment5.cpp(91): message : see reference to function template instantiation 'void BFStopological<int>(Graph<int>)' being compiled
+  HW5.vcxproj -> F:\!!!Maestria\Summer 2020\CS 5343\HW\HW5\Debug\HW5.exe
